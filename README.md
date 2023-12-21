@@ -1,4 +1,4 @@
-![Shadir's GitHub Banner](https://github.com/laxmena/laxmena/blob/main/banner.png?raw=true)
+![Shadir's GitHub Banner](https://cdn.discordapp.com/attachments/1181562229435404290/1187203819772325960/banners.png?ex=659608b7&is=658393b7&hm=213763d0dcc85f4bd2691091095f19713cee9dada0f465668e9b4f2c0db8b571&)
 <h1 align="center">Hi 👋, I'm x2Stitch</h1>
 <h3 align="center">I am a developer of Discord bots and various programs.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
